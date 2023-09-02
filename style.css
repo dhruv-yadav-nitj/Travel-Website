@@ -107,7 +107,7 @@ section {
     height: 100vh;
     /* height: 100vh -> means 100% of viewport height */
     width: 100%;
-    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.3)), url(/assets/Background.png);
+    background-image: linear-gradient(to left, rgba(0, 0, 0, 0.6),rgba(0, 0, 0, 0.3)), url(assets/Background.png);
     background-size: cover;
     background-position: bottom center;
     display: flex;
